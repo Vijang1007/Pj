@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\Project\P1\bin\Debug\P1.exe.config
+C:\Users\admin\source\repos\Project\P1\bin\Debug\P1.exe
+C:\Users\admin\source\repos\Project\P1\bin\Debug\P1.pdb
+C:\Users\admin\source\repos\Project\P1\obj\Debug\P1.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Project\P1\obj\Debug\P1.exe
+C:\Users\admin\source\repos\Project\P1\obj\Debug\P1.pdb
