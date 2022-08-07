@@ -1,0 +1,6 @@
+C:\우윤식\Pj\P9\bin\Debug\P9.exe.config
+C:\우윤식\Pj\P9\bin\Debug\P9.exe
+C:\우윤식\Pj\P9\bin\Debug\P9.pdb
+C:\우윤식\Pj\P9\obj\Debug\P9.csproj.CoreCompileInputs.cache
+C:\우윤식\Pj\P9\obj\Debug\P9.exe
+C:\우윤식\Pj\P9\obj\Debug\P9.pdb

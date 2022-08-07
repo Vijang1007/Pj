@@ -11,7 +11,15 @@ namespace P7
     {
         static void Main()
         {
+            //연산자
+            //int a = 3;
+            //WriteLine(++a);
+            //WriteLine(a++);
+            //WriteLine(a);
 
+            WriteLine(10 % 2 == 1 ? "홀수" : "짝수");
+            WriteLine(11 % 2 == 1 ? "홀수" : "짝수");
+            ReadKey();
         }
     }
 }

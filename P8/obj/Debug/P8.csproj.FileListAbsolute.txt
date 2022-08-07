@@ -1,0 +1,7 @@
+C:\우윤식\Pj\P8\obj\Debug\P8.csproj.AssemblyReference.cache
+C:\우윤식\Pj\P8\obj\Debug\P8.csproj.CoreCompileInputs.cache
+C:\우윤식\Pj\P8\bin\Debug\P8.exe.config
+C:\우윤식\Pj\P8\bin\Debug\P8.exe
+C:\우윤식\Pj\P8\bin\Debug\P8.pdb
+C:\우윤식\Pj\P8\obj\Debug\P8.exe
+C:\우윤식\Pj\P8\obj\Debug\P8.pdb
