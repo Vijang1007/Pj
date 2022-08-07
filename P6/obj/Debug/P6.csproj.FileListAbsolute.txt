@@ -1,0 +1,6 @@
+C:\우윤식\Pj\P6\bin\Debug\P6.exe.config
+C:\우윤식\Pj\P6\bin\Debug\P6.exe
+C:\우윤식\Pj\P6\bin\Debug\P6.pdb
+C:\우윤식\Pj\P6\obj\Debug\P6.csproj.CoreCompileInputs.cache
+C:\우윤식\Pj\P6\obj\Debug\P6.exe
+C:\우윤식\Pj\P6\obj\Debug\P6.pdb
