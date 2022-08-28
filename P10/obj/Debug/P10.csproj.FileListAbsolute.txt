@@ -1,0 +1,7 @@
+C:\우윤식\Pj\P10\bin\Debug\P10.exe.config
+C:\우윤식\Pj\P10\bin\Debug\P10.exe
+C:\우윤식\Pj\P10\bin\Debug\P10.pdb
+C:\우윤식\Pj\P10\obj\Debug\P10.csproj.AssemblyReference.cache
+C:\우윤식\Pj\P10\obj\Debug\P10.csproj.CoreCompileInputs.cache
+C:\우윤식\Pj\P10\obj\Debug\P10.exe
+C:\우윤식\Pj\P10\obj\Debug\P10.pdb
